@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+fma_small/
+fma_metadata/
+fma_small.zip
+fma_metadata.zip
+data/song_labels.csv
+model_results.csv
+*.mp3
